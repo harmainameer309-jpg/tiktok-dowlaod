@@ -1,0 +1,6 @@
+{
+  "name": "TokHD - TikTok Video Downloader No Watermark",
+  "description": "High-definition TikTok video downloader without watermarks featuring real-time download progress tracking and multiple video batch processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
